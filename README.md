@@ -1,6 +1,6 @@
 # Bible Chronology
 
-Description
+List of Bible events in Portuguese separated by year.
 
 ## Sources:
 
