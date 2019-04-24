@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bible-chronology/static/css/main.4561d2c1.chunk.css",
+    "main.js": "/bible-chronology/static/js/main.f0d4331a.chunk.js",
+    "main.js.map": "/bible-chronology/static/js/main.f0d4331a.chunk.js.map",
+    "runtime~main.js": "/bible-chronology/static/js/runtime~main.f32f1b0e.js",
+    "runtime~main.js.map": "/bible-chronology/static/js/runtime~main.f32f1b0e.js.map",
+    "static/js/2.945cd2b6.chunk.js": "/bible-chronology/static/js/2.945cd2b6.chunk.js",
+    "static/js/2.945cd2b6.chunk.js.map": "/bible-chronology/static/js/2.945cd2b6.chunk.js.map",
+    "index.html": "/bible-chronology/index.html",
+    "precache-manifest.9f55f9ff9adfb3111c6676dc3351192d.js": "/bible-chronology/precache-manifest.9f55f9ff9adfb3111c6676dc3351192d.js",
+    "service-worker.js": "/bible-chronology/service-worker.js",
+    "static/css/main.4561d2c1.chunk.css.map": "/bible-chronology/static/css/main.4561d2c1.chunk.css.map"
+  }
+}
